@@ -1,0 +1,38 @@
+#header{
+	background-image:-webkit-linear-gradient(to top,#222,gray);
+	background-image:linear-gradient(to top,#222,gray);
+	width:100%;
+	color:white;
+	height:55px;
+	padding: 10px 0px;
+}
+
+#header div{
+	display:inline-block;
+	
+}
+
+#header>div{
+	padding:0px 2%;
+}
+
+#login{
+	width: 60%;
+	text-align:right;
+	float: right;
+}
+
+#login div{
+	padding:0px 0.4%; 
+}
+
+#login input{
+	color:gray;
+}
+
+input[type="checkbox"]{
+	vertical-align:middle;
+}
+
+
+
