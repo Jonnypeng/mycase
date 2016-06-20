@@ -47,7 +47,7 @@ input[type="checkbox"]{
 	margin: 0px auto;
 }
 #main-2{
-	width: 80%;
+	width: 70%;
 	height: 640px;
 	border: 1px gray solid;
 	margin: auto;
@@ -64,17 +64,21 @@ input[type="checkbox"]{
 	margin: 10px 15px;
 }
 
+#main-2 .row2 div.input input[type="text"]{
+	color:gray;
+}
+
 #main-2 .row2 div input{
 	width:100%;
 }
 
 #left{
-	width:30%;
+	width:25%;
 	height:inherit;
 	background:#3c3c3c;
 }
 #right{
-	width:70%;
+	width:75%;
 	height:inherit;
 	background:white;
 }
@@ -110,7 +114,21 @@ input[type="checkbox"]{
 	border:0px;
 }
 
-#left .row2 .sumbit{
-	margin: 20px 15px;
+.small {
+	font-size:0.85rem;
+	text-align:right;
+}
+
+.w-img{
+	width:100%;
+	height:auto;
+}
+
+.row2 a{
+	display:block;
+	margin:auto;
+	width: 85%;
+	height:190px;
+	line-height:190px;
 }
 
