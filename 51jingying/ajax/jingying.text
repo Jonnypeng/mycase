@@ -1,0 +1,10 @@
+			<div class="title">关键字</div>
+			<div class="input"><input value="请输入关键字" type="text"></div>			
+			<div class="title">居住地</div>
+			<div class="input"><input value="居住地" type="text"></div>			
+			<div class="title">职位/部门</div>
+			<div class="input"><input value="输入内容" type="text"></div>			
+			<div class="title">公司</div>
+			<div class="input"><input value="请输入公司名称" type="text"></div>			
+			<div class="input sumbit"><input type="button" value="搜索"></div>			
+			<div class="small">试一试公司架构搜索？</div>
